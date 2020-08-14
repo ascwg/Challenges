@@ -1,0 +1,4 @@
+"title": "The-Impossible-Dream"
+    "level": 2
+    "description": "The notorious terrorist group known as the 10 rings got their 1337 hax0r 5 to hack into Stark Industries and steal the some sensitive files inlcuding the blueprints for the aRC Reactor second model, the hackers messed up the data badly and encrypted the files. Can you retrieve the files?"
+"points": 600
