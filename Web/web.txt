@@ -1,0 +1,16 @@
+"title": "Uploader"
+    "level": 2
+    "description": "Is it the same or is it not ?!"
+    "points": 600
+
+---------------------------
+    "title": "Translator"
+    "level": 2
+    "description": "The only way to patch a vulnerability is by exposing it first so, Will you can Translator ?."
+    "points": 600
+
+---------------------------
+    "title": "promotion"
+    "level": 1
+    "description": "Find a way to promote yourself."
+    "points": 300
